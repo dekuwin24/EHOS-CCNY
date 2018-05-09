@@ -1,0 +1,28 @@
+.trash {
+   opacity: 0.0;
+
+}
+.trash:hover {
+   opacity: 0.5;
+
+}
+.button {
+  color:black;
+  background-color: transparent;
+  background-repeat:no-repeat;
+  border: none;
+  cursor:pointer;
+  overflow: hidden;
+  outline:none;
+}
+
+.button:hover {
+   background-color: #dc3545;
+   border-color: #dc3545;
+  display: inline-block;
+}
+
+
+.borderless td, .borderless th {
+    border: none;
+}
